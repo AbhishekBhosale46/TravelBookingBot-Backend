@@ -7,6 +7,6 @@
 
 # Screenshots
 [![1.png](https://i.postimg.cc/qRPrf6TN/1.png)](https://postimg.cc/XGkmdJXW)
-[![2.png](https://i.postimg.cc/yxjLm2v7/2.png)](https://postimg.cc/1Vg0PCkd)
+[![2.png](https://i.postimg.cc/rFLTQ4jb/2.png)](https://postimg.cc/5jpDt6Zq)
 [![3.png](https://i.postimg.cc/SR6wwZdP/3.png)](https://postimg.cc/4H3LcQrv)
 [![4.png](https://i.postimg.cc/6p5DmfvH/4.png)](https://postimg.cc/QHw4B5S5)
